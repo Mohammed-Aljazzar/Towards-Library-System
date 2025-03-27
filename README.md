@@ -122,32 +122,32 @@ Check out the live demo of the Electronic Library System here: [Live Demo](https
 Here are some snapshots of the Electronic Library System in action:
 - Homepage:
   
-   ![Home Page](screens/home.png)  
+   ![Home Page](screenshots/home.png)  
 
-   ![Home Page](screens/home2.png)  
+   ![Home Page](screenshots/home2.png)  
 
-   ![Home Page](screens/home3.png)  
+   ![Home Page](screenshots/home3.png)  
 
-   ![Home Page](screens/home4.png)  
+   ![Home Page](screenshots/home4.png)  
 
 - Books Page:
   
-   ![Books Page](screens/books.png)
+   ![Books Page](screenshots/books.png)
   
-   ![Books Page](screens/book2.png)  
+   ![Books Page](screenshots/book2.png)  
 
-   ![Books Page](screens/book3.png)  
+   ![Books Page](screenshots/book3.png)  
   
  
 - Admin Dashboard:
 
-   ![Admin Dashboard](screens/dashboard.png)
+   ![Admin Dashboard](screenshots/dashboard.png)
   
-   ![Admin Dashboard](screens/dashboard2.png)  
+   ![Admin Dashboard](screenshots/dashboard2.png)  
 
 - About Page:
 
-   ![About Page](screens/about.png)  
+   ![About Page](screenshots/about.png)  
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
