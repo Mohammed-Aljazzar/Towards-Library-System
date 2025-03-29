@@ -1,6 +1,6 @@
 # Towards Library System
 
-Welcome to the **Electronic Library System**, a modern web-based platform built with Django to manage and provide access to a digital collection of books. This system caters to readers, researchers, and administrators, offering a seamless experience for browsing, managing, and engaging with books.
+Welcome to the **Towards Library System**, a modern web-based platform built with Django to manage and provide access to a digital collection of books. This system caters to readers, researchers, and administrators, offering a seamless experience for browsing, managing, and engaging with books.
 
 ## Table of Contents
 - [Overview](#overview)
